@@ -1,2 +1,2 @@
 # GithubCourse-DIO
-Repositório para teste de autenticações
+Repositório para testes de autenticações
